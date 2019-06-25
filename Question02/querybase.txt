@@ -1,0 +1,7 @@
+>Query description string 1
+AGGT
+>Query description string 2
+
+>Query description string 3
+TTTTTTACGT
+>EOF
